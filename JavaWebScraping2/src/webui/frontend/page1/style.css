@@ -1,0 +1,19 @@
+.card-group{
+    margin-top: 5%;
+}
+
+.alert-css{
+    text-align: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+}
+
+#text-area{
+    width: 90%;
+    justify-content:center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+}
