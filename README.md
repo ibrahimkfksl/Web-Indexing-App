@@ -1,9 +1,6 @@
 # Web İndeksleme Uygulaması
 
-## Amaç: Verilen bir URL’deki web sayfa içeriğine göre diğer birden fazla web sayfasını benzerlik
-## bakımından indeksleyip sıralayan web tabanlı bir uygulama geliştirmek. Böylece bu proje sayesinde
-## web indeksleme yöntemleri hakkında bilgi edinilmesini ve web tabanlı uygulama yazma becerisinin
-## geliştirilmesi amaçlanmaktadır.
+## Amaç: Verilen bir URL’deki web sayfa içeriğine göre diğer birden fazla web sayfasını benzerlik bakımından indeksleyip sıralayan web tabanlı bir uygulama geliştirmek. Böylece bu proje sayesinde web indeksleme yöntemleri hakkında bilgi edinilmesini ve web tabanlı uygulama yazma becerisinin geliştirilmesi amaçlanmaktadır.
 
 ### Nasıl Çalıştırılır?
 
